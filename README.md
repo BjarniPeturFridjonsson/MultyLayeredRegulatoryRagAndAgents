@@ -226,7 +226,7 @@ Services started by Docker Compose:
 | [Testing](docs/testing.md) | Six pipelines, AI inspection logging, hallucination detection, the feedback loop |
 | [Memory](docs/memory.md) | Reference of the memory strategy common for all agents |
 | [AddOns](docs/AddOns.md) | Medical certificate scanner and verifier |
-| [GDPR](docs/TdprNotes.md) | Remedies, structure, Right to forget, policies |
+| [GDPR](docs/GdprNotes.md) | Remedies, structure, Right to forget, policies |
 
 
 ---
